@@ -1,0 +1,13 @@
+name = "Light Emitting Triode"
+filename = "let-1.20-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ta96h8jB/versions/BomCtXKJ/let-1.20-2.1.0.jar"
+hash-format = "sha512"
+hash = "30fa22f5c430f111d09b21bf9045a4ed9ffdd25ad73df57de793baa496957ac577715591f2ed2ce718fe90a53a19991859cd55149677486c82bf934d2b636a6d"
+
+[update]
+[update.modrinth]
+mod-id = "Ta96h8jB"
+version = "BomCtXKJ"

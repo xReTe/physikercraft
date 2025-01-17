@@ -1,0 +1,13 @@
+name = "Spice of Life: Valheim Edition"
+filename = "sol_valheim-1.1.1-4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mKalCkNV/versions/kcOOe5S6/sol_valheim-1.1.1-4.jar"
+hash-format = "sha512"
+hash = "3bae02e2c8b791fe7e1e0f7c88f2dd038e5a3b3907127cd5fb1239acc12d270db00cc6e80766f47c0b01ae3ce85987cc0f113a517f3b531b1b871a6adef429f1"
+
+[update]
+[update.modrinth]
+mod-id = "mKalCkNV"
+version = "kcOOe5S6"

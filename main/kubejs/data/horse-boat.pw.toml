@@ -1,0 +1,13 @@
+name = "Horse Boat"
+filename = "Horse Boat 1.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6znLI3bN/versions/iI5EDgiA/Horse%20Boat%201.3.zip"
+hash-format = "sha1"
+hash = "d509f8a79d3ba25043cc60e9d718d010e53ac813"
+
+[update]
+[update.modrinth]
+mod-id = "6znLI3bN"
+version = "iI5EDgiA"

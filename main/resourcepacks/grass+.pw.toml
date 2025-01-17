@@ -1,0 +1,13 @@
+name = "Grass+"
+filename = "§6Grass+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SFln2nyV/versions/4blK7J76/%C2%A76Grass%2B.zip"
+hash-format = "sha512"
+hash = "d3467034ab04917f47e575602d9463c6b3d55a1f4300560fb02dd1c86bc5aee7c4fc68d14c811bb38f827e0f097d27df1fc6a633781d66f113eaed9ee42986c5"
+
+[update]
+[update.modrinth]
+mod-id = "SFln2nyV"
+version = "4blK7J76"

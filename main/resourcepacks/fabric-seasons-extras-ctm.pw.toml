@@ -1,0 +1,13 @@
+name = "Connected textures for Fabric Seasons Extras"
+filename = "seasons-ctm-oak_planks.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/D1gqgIhW/versions/vQqvHhcx/seasons-ctm-oak_planks.zip"
+hash-format = "sha512"
+hash = "469f87453d66b65ca4e4b72852586b8ffc0b94f970f302f624affe9310bde56ede899a54b757dd7e5337ea10594afead648f9f69be2685f08d5fd11baee18daf"
+
+[update]
+[update.modrinth]
+mod-id = "D1gqgIhW"
+version = "vQqvHhcx"

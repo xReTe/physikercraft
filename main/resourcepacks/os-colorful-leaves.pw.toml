@@ -1,0 +1,13 @@
+name = "Os' Colorful Leaves"
+filename = "Os' Colorful Leaves.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4lCJnsug/versions/CEfkFqlU/Os%27%20Colorful%20Leaves.zip"
+hash-format = "sha512"
+hash = "748b68a9f5958d32dff3241bf34ee1007b351a951a54697b10a496c071fc1412e12d8885d2b8aaee6352f63fc6398c7736b6b8385afa3406defdaeaa061d18a3"
+
+[update]
+[update.modrinth]
+mod-id = "4lCJnsug"
+version = "CEfkFqlU"

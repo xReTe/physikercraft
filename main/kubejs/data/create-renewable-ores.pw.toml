@@ -1,0 +1,13 @@
+name = "Create Renewable Ores"
+filename = "Create-Renewable-Ores.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dYMXOl0s/versions/NIaSbawO/Create-Renewable-Ores.zip"
+hash-format = "sha1"
+hash = "98a2eeeca65685d574166f0f978d094ae7e4c847"
+
+[update]
+[update.modrinth]
+mod-id = "dYMXOl0s"
+version = "NIaSbawO"

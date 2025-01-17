@@ -1,0 +1,17 @@
+name = "Physikercraft"
+author = "ReTe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "05d635b2548eb500da16732fb67e90780b45d8e7ccfecf478e3bd81b2d370043"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20.1"]
+datapack-folder = "kubejs/data/"

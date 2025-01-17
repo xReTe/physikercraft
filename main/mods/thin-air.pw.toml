@@ -1,0 +1,13 @@
+name = "Thin Air"
+filename = "ThinAir-v8.1.5-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ll2RO0er/versions/FEiYWKBt/ThinAir-v8.1.5-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "9c0ee3cecf103d524bbe7de088f99fcd71525da56c37f3f8abf016fa29fa67e1cc52ebb9a0d4e010affb74aafcec84b0a0bd8e317cf6479c6e45deee7b4665e7"
+
+[update]
+[update.modrinth]
+mod-id = "ll2RO0er"
+version = "FEiYWKBt"
