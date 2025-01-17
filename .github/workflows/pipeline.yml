@@ -120,6 +120,8 @@ jobs:
       - name: Get Latest tag
         id: tag
         uses: WyriHaximus/github-action-get-previous-tag@v1
+        with:
+          fallback: 0.1.0
         if: ${{ steps.release-please.outputs.releases_created }}
 
       - name: Parse Pack File
