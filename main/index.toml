@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-weathering.pw.toml"
-hash = "5d8b13b77f6ec67102e5b5bce19a54b888cd68ba9ec95a88526ef90946fbe813"
+hash = "6c53f46058fa6d78872a9e19c5541c23726ef1eab2ed52dae7d2b9c9b578e68d"
 metafile = true
 
 [[files]]
