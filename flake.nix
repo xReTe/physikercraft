@@ -10,7 +10,7 @@
       url = "github:cachix/pre-commit-hooks.nix";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-    packwiz-fic = {
+    packwiz-fix = {
       url = "github:xReTe/packwiz";
       inputs.nixpkgs.follows = "nixpkgs";
     };
@@ -41,7 +41,7 @@
         devShells.default = pkgs.mkShell {
           packages = [
             pkgs.git
-            inputs.packwiz-fix.packages."{$pkgs.system}".packwiz
+            inputs.packwiz-fix.packages."${pkgs.system}".packwiz
           ];
           shellHook = ''
             ${config.pre-commit.installationScript}
