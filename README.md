@@ -13,7 +13,7 @@
 
 ---
 
-The PhysikerCraft modpack :)
+The PhysikerCraft modpack!
 
 **mc-modpack-kit** is a GitHub Actions workflow template designed to simplify the release process of Minecraft modpacks using a structured monorepo approach. It automates essential tasks such as versioning, modpack building, and publishing on platforms like Modrinth and CurseForge. 
 
