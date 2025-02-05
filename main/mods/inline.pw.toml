@@ -1,0 +1,13 @@
+name = "Inline"
+filename = "inline-fabric-1.20.1-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fin1PX4m/versions/Bskomaui/inline-fabric-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "15c8497a4370958283c3eac30103eda644538060b5eca71274c1a3c47011727b0f218c7ca977c456bb140d5328f91800cc1f6fcce82c404ac7a4d0017e8ca84d"
+
+[update]
+[update.modrinth]
+mod-id = "fin1PX4m"
+version = "Bskomaui"
