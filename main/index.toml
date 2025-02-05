@@ -143,6 +143,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/create-air-fabric.pw.toml"
+hash = "1dbc6dd24236373622e6cb58bf80b187c774d745d0f1e4dd63018544c862a584"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "cf0ea0786cf67b126b589a71f311268eb96bc98f1e4b58467aad45cb9aa24dfd"
 metafile = true
@@ -185,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/duckling.pw.toml"
 hash = "df8d6dd5a9f55f4c93990eb8c41935dd620fe54d91a71d653a0f657a7ecce308"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "cc6eb3c71b6f59304db3600f9a4878526a87af81f4b2d195e3a8a21d513878ee"
 metafile = true
 
 [[files]]
@@ -323,6 +333,11 @@ hash = "da53b078e3d222c72a3dc7f065cca1cad9772473a6be401f4e7098c0e7da6456"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
 metafile = true
@@ -405,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "9646d08b1a0997fb6f0542b2692c16f9994a1aa2af5121a4b8d3778531cb0a08"
 metafile = true
 
 [[files]]
@@ -498,6 +518,11 @@ hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "95dc1c49d6f94a6484e3c3688fa062fed91b323aa4cc088cc2748ca0dd43a7da"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
 metafile = true
@@ -545,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "8fa4fd7d6da644f5fa814ba598101d3b33cf48a9b0dbabd1377248b495df25d3"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "4e52bb35b64a65658ee837e632edd1167dac97b398c62e92d9bc23c68c6f094d"
 metafile = true
 
 [[files]]
@@ -600,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/turtlematic.pw.toml"
 hash = "6c991e107a958a1eaceb8af1f234cbbb6016a1831981399e0c5c22ba66d32129"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "4a3a4f7dcb764f5fbb6e9bcb50c7bce50c23bfcff6b9d840eddcbe68f057b9a5"
 metafile = true
 
 [[files]]
