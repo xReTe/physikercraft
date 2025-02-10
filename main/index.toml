@@ -333,8 +333,18 @@ hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus-expansion.pw.toml"
+hash = "23d1808185b96ba7e674ae80763db201b3fc1a4f05e54b0175105fe57bfaa8f7"
+metafile = true
+
+[[files]]
 file = "mods/hephaestus.pw.toml"
 hash = "da53b078e3d222c72a3dc7f065cca1cad9772473a6be401f4e7098c0e7da6456"
+metafile = true
+
+[[files]]
+file = "mods/hephaestusplus.pw.toml"
+hash = "6eb54613d2aafdb6d08fc3c820366c6441fa2ecc69c7e6215e52fc67e835c638"
 metafile = true
 
 [[files]]
@@ -450,6 +460,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "cdc3b40078ef395c5b4863a74dd58f6c3cd1a4f5eeea7e3782318ef28d99438c"
 metafile = true
 
 [[files]]
