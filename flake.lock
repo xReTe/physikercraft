@@ -107,6 +107,26 @@
         "type": "github"
       }
     },
+    "packwiz-fix": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1737384530,
+        "narHash": "sha256-LRg4uUnxtIsZ0/S/Va5GiyIqFEx9XhISNcAYIA0KgDo=",
+        "owner": "xReTe",
+        "repo": "packwiz",
+        "rev": "79c9acb5844bdb4f4f86b1410aa9e6f390d7e1ba",
+        "type": "github"
+      },
+      "original": {
+        "owner": "xReTe",
+        "repo": "packwiz",
+        "type": "github"
+      }
+    },
     "pre-commit-hooks": {
       "inputs": {
         "flake-compat": "flake-compat",
@@ -135,6 +155,7 @@
       "inputs": {
         "flake-parts": "flake-parts",
         "nixpkgs": "nixpkgs",
+        "packwiz-fix": "packwiz-fix",
         "pre-commit-hooks": "pre-commit-hooks"
       }
     },

@@ -1,13 +1,13 @@
 name = "Pufferfish's Skills"
-filename = "puffish_skills-0.14.5-1.20-fabric.jar"
+filename = "puffish_skills-0.14.7-1.20-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hqQqvaa4/versions/FFpTnmSS/puffish_skills-0.14.5-1.20-fabric.jar"
+url = "https://cdn.modrinth.com/data/hqQqvaa4/versions/YO9tLa7a/puffish_skills-0.14.7-1.20-fabric.jar"
 hash-format = "sha512"
-hash = "567ab04be682c6e26459d11b5ac520e9caed10089e8088e573a9dc1df795bd0bb3a86075a5d8c781302cf0ebc1753388e968126ba4622e53dc1b11a38d0e0e67"
+hash = "8ef304a8c4d1a830ce3f050ed9c0812103472f262da05b283103b6f32be3028ec73c6d72a8f731c44ee56b7586ce940e9373c54b50f42e0b561759f14d0ba2f9"
 
 [update]
 [update.modrinth]
 mod-id = "hqQqvaa4"
-version = "FFpTnmSS"
+version = "YO9tLa7a"
