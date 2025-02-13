@@ -33,6 +33,16 @@ file = "kubejs/server_scripts/tags.js"
 hash = "d088adbfed30a77e1877d0bfc55e91b9566eae219c22685828a2beb6be50401e"
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "886832ee8ee9622623a9d36351f3f955a923d3e67a0b097532d1c8b8fc7848b1"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "3e8c49e8be3f8fa55f28ffa3553bcedb4931106247660b405de0cfb0701dc3a9"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "75df667bf44ea3d1272430e259339d69f55db196d0d42d2baf60ada15ef18f3b"
 metafile = true
@@ -448,6 +458,11 @@ hash = "4c6212a5e3c508577d31274e8ec53be460716360a6abba95f21d8cf40c76d8eb"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "c036fba25fdb9a9206b3cdf0cc94d3f1877c63fbf47ce7199bd09358c6289dea"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
 metafile = true
@@ -678,11 +693,6 @@ hash = "4dcfcecd5f3be5cbb1b07a11bf6a264033c1619786491ec2a1ebf1b748324c48"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
-metafile = true
-
-[[files]]
 file = "mods/turtlematic.pw.toml"
 hash = "6c991e107a958a1eaceb8af1f234cbbb6016a1831981399e0c5c22ba66d32129"
 metafile = true
@@ -720,6 +730,11 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "441bb3a82f6d0b09cc10984cfd468f53bdd9879f7fda5b0299b53ccbf2ba7ca6"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "11e8515b92b2bf4a8d68b825d4629b2ecda3ed0dd8321d7f1720bd63383b0863"
 metafile = true
 
 [[files]]
