@@ -18,4 +18,9 @@ ServerEvents.tags("item", event => {
   for (const nugget of tc_nuggets) {
     event.add("c:nuggets/" + nugget, "tconstruct:" + nugget + "_nugget")
   }
+  
+  event.add("backslot:backslot_items", "#tconstruct:modifiable/melee")
+  event.add("backslot:beltslot_items", "#tconstruct:modifiable/melee")
+  event.add("backslot:backslot_items", "#tconstruct:modifiable/harvest")
+  event.add("backslot:beltslot_items", "#tconstruct:modifiable/harvest")
 })

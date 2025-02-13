@@ -30,7 +30,7 @@ hash = "32dda8fa85717194edca35023b9ed27c170937cef0ae6ec6c923c1fb8f92a152"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "d088adbfed30a77e1877d0bfc55e91b9566eae219c22685828a2beb6be50401e"
+hash = "344b871237b4115f83ea0aa2700772749ff16cfec5d5b4f4c18fddaead373ba4"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "b16a276d28f576e5ec998cc8b867f47cbd2f13054cd37cf7d8aeb42898c27f5f"
+hash = "39def8353b1df61cc5f3efb6f5583894e6392102bc400077484eaf5dee0fafa9"
 metafile = true
 
 [[files]]
